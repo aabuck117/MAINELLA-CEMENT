@@ -1,19 +1,19 @@
 /* CSS VARIABLES - BRUTALIST / PREMIUM CONTRACTOR THEME */
 :root {
     /* Colors */
-    --bg-main: #000000;
-    --bg-secondary: #0a0a0a;
-    --bg-tertiary: #141414;
+    --bg-main: #f5f1e8;
+    --bg-secondary: #efe7d8;
+    --bg-tertiary: #e4d8c3;
     
-    --text-primary: #ffffff;
-    --text-secondary: #a0a0a0;
-    --text-muted: #666666;
+    --text-primary: #111111;
+    --text-secondary: #444444;
+    --text-muted: #777777;
     
-    --accent-color: #FF5500; /* Vibrant Industrial Orange */
+    --accent-color: #FF5500;
     --accent-hover: #e04a00;
     
-    --border-color: #222222;
-    --border-light: #333333;
+    --border-color: #d6c7ae;
+    --border-light: #c9b89d;
 
     /* Typography */
     --font-heading: 'Montserrat', sans-serif;
